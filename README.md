@@ -1,1 +1,1 @@
-MERN Stack tutorial by the Net Ninja on YouTube.
+MERN Stack tutorial by the Net Ninja on YouTube. Will be doing the authentication course next.
